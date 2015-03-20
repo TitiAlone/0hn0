@@ -1,0 +1,19 @@
+{
+    "name": "0h n0",
+    "description": "It's 0h h1's companion! By Q42, port to Firefox OS by Titi_Alone",
+    "version": "1.0.0",
+    "launch_path": "/index.html",
+    "icons": {
+        "64": "/img/icon-64.png",
+        "128": "/img/icon-128.png",
+        "512": "/img/icon-512.png",
+        "1024": "/img/icon-1024.png"
+    },
+    "developer": {
+        "name": "Q42"
+    },
+    "default_locale": "en",
+    "installs_allowed_from": [
+        "https://marketplace.firefox.com"
+    ]
+}
